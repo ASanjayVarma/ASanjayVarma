@@ -5,15 +5,15 @@ Welcome to my GitHub profile! I'm passionate about full-stack development, machi
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer | Machine Learning Enthusiast | Software Engineer
+- 💻 Aspiring Full-Stack Developer | Machine Learning Enthusiast
 - 🎓 Pursuing my studies in India
 
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, Java, C, SQL, HTML, CSS
-- **Frameworks & Libraries:** pandas, scikit-learn, Tkinter
+- **Frameworks & Libraries:** Pandas, Scikit-learn, Tkinter
 - **Databases:** MySQL
-- **APIs:** requests for data retrieval and processing
+- **APIs:** Requests for data retrieval and Processing
 
 ## 📫 How to Reach Me
 
