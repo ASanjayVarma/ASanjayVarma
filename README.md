@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about full-stack development, machi
 
 ## 🚀 About Me
 
-- 💻 Aspiring Full-Stack Developer | Machine Learning Enthusiast
+- 💻 Interested In Full Stack, Machine Learning and Data Science
 - 🎓 Pursuing my studies in India
 
 ## 🛠️ Technical Skills
