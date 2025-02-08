@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about full-stack development, machi
 
 - **Email:** [asanjayvarma18@gmail.com]
 - **LinkedIn:** [Sanjay Varma](https://www.linkedin.com/in/addada-sanjay-varma-5a0b382a4/)
-[Visit my website](https://sanjayvarma.site)
+- [Visit my website](https://sanjayvarma.site)
 
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me on social media.
